@@ -1,14 +1,22 @@
 ¬ 👋 Hello there, I'm Erik Hernandez, Computer Science Engineer
 
-¬ 👀 My goal is to become a full stack mobile developer ;)
+¬ I have been working Kotlin and here you can find some of my projects.
 
-¬ 🤓 I've worked on game development projects using Unity 3D,
-      you can find my portfolio at: https://erikhernandez97.com
+I alraeady know how to work with:
+     
+     
+      Principal components
+      Fragments
+      Recyclerview
+      Navigation drawer (bottom too)
+      Friendly layouts
+      Local database using Room 
+            Using Queries or standard funtions: Insert, Delete, Update.
+      Actually studying and practicing about MVP architecture
       
-¬ 💻 I've also worked in the development of applications with java for desktop.
-      using MySQL as a database manager
       
-¬ 🌱 I'm currently attending a kotlin bootcamp
+👀 I want to be a full stack mobile and develop applications for IOS/Android 🤓
+
 
 ¬ You can reach me on
 
@@ -16,12 +24,11 @@
      
      Linkedin: https://www.linkedin.com/in/erikhernandez323/
      
-     eMail: ingeniero@erikhernandez97.com  -  erikhernandez323@gmail.com
+     eMail: erikhernandez323@gmail.com
      
 --- Hobbies ---
 
 👾 Gamer
-
-🏋🏻 Athlete
-
+👨🏽‍💻🏻 Code
 ✈️ Traveler
+🚶🏽 Take a walk
